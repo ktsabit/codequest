@@ -302,6 +302,24 @@ nav a {
   border: 1px solid #f9a826;
 }
 
+.about a {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #f9a826;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: 700;
+  transition: all 0.3s ease;
+}
+
+.about a:hover {
+  background-color: #fff;
+  color: #f9a826;
+  border: 1
+}
+
 footer {
   background-color: #1a1a1a;
   color: #fff;
